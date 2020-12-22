@@ -1,0 +1,3 @@
+retrieved document content: hello Riak
+modified document content: hello Riak some
+deleted document content: null
